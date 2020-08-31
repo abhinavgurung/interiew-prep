@@ -1,3 +1,16 @@
+
+
+/**
+ * 
+ * In a Given String Find the number of occurences of each char
+ * eg. in String "Hello World"
+ * output should be : h --> 1
+ * e --> 1
+ * l --> 3
+ * o --> 2
+ * and so on
+ */
+
 import java.util.HashMap;
 
 public class Test{
